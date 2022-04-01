@@ -57,7 +57,7 @@ The Standard Precipitation Index (SPI) is a relatively new drought index based o
 
 The final output of the project is a map showing the most sensible drought exposure locations in the later month. In February 2022, the southern regions were the most exposed areas in Ghana’s Central region.
 
-<img src="result.png" alt="result" width="800"/>
+<img src="./images/result.png" alt="result" width="800"/>
 
 ## Perspectives
 
@@ -65,7 +65,7 @@ Socioeconomic data could have been added to the drought exposure map to obtain a
 
 This work has the potential to be applied in any African country where Google Accra has derived building data and therefore could significantly improve drought monitoring on the continent.
 
-![Perspectives](perspectives.png)
+![Perspectives](./images/perspectives.png)
 
 ## Reference
 
