@@ -37,7 +37,7 @@ Table: Details on used notebooks
 | --- | --- | --- |
 | 1_clip_building_data.ipynb | Google Colab | 20 min |
 | 2_clip_rainfall_data.ipynb | Google Colab | 5 min |
-| 3_building_spi.ipynb | Local Machine | 2 min |
+| 3_buildings_spi.ipynb | Local Machine | 2 min |
 
 ## Local machine Requirements
 
