@@ -29,7 +29,7 @@ Country outlines and administrative subdivisions for all countries. The level of
 
 - [Clip building data](1_clip_building_data.ipynb): clips Open Buildings in Ghana’s Central region.
 - [Clip rainfall data](2_clip_rainfall_data.ipynb): clips CHIRPS in Ghana.
-- [Calculate clustered building's SPI](3_building_spi.ipynb): clusters buildings of Central region, calculates Ghana’s 1 month SPI and finds latest drought exposure locations
+- [Calculate clustered building's SPI](3_buildings_spi.ipynb): clusters buildings of Central region, calculates Ghana’s 1 month SPI and finds latest drought exposure locations
 
 Table: Details on used notebooks
 
