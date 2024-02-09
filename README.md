@@ -2,7 +2,9 @@
 
 Near Real-Time Drought Exposure: Case Study of the Central Region, Ghana
 
-:3rd_place_medal: 3rd place winner! https://zindi.africa/learn/meet-the-winners-of-the-hack-the-continent-open-buildings-challenge
+:3rd_place_medal: 3rd place winner! 
+
+https://zindi.africa/learn/meet-the-winners-of-the-hack-the-continent-open-buildings-challenge
 
 Note: This document is the framework document for Hack the Continent Open Buildings Challenge organized by Google Research, Accra on the Zindi platform. The goal of this competition was to put Google’s Open Buildings dataset to good use.
 
